@@ -24,3 +24,13 @@
 echo "Hello, Markdown!"
 ls -la
 ```
+
+## Text Styles
+
+This is **bold text**
+
+This is _italic text_
+
+This is **_bold & italic text_**
+
+This is **bold text**, this is _italic text_, and this is **_bold & italic text_**
